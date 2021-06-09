@@ -27,7 +27,7 @@ Git
 	克隆
 	提交
 	处理冲突
-	分支合并
+	分支合并cccccccccc
 
 
 Github gitlab 有什么区别?
