@@ -1,0 +1,36 @@
+安装软件：
+	钉钉
+	微信
+
+
+飞书链接: https://r3fzp0j52y.feishu.cn/docs/doccn5Q6Q04Wjb9CTiqYRkglDDb 密码: pYR7 参考这个文档，有什么问题可以直接找我。
+
+
+Git
+	安装:https://blog.csdn.net/yhl_leo/article/details/50760140
+		sudo apt-get update
+		sudo apt-get install git  
+		git --version
+	教程
+		https://www.runoob.com/git/git-install-setup.html
+	用户信息
+		git config --global user.name "909950465"
+		git config --global user.email 909950465@qq.com
+	查看配置信息
+		git config --list
+
+	初始化Git仓库
+		git init
+			已初始化空的 Git 仓库于 /home/su/.git/
+
+
+	克隆
+	提交
+	处理冲突
+	分支合并
+
+
+Github gitlab 有什么区别?
+github的登录网站：https://github.com/
+gitlab的登录网站：https://gitlab.com/users/sign_in
+
